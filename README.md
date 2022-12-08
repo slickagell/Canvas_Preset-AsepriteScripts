@@ -1,4 +1,4 @@
-# Canvas_Preset-AsepriteScripts
+# CanvasPresets-AsepriteScripts
 Canvas Presets for Aseprite, a sprite &amp; pixel art editor/tool
 
 
